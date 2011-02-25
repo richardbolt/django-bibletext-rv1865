@@ -1,4 +1,4 @@
-django-bibletext was started by Richard Bolt in August 2010.
+django-bibletext was started by Richard Bolt in December 2010. It is a pluggable translation for django-bibletext.
 
 The primary authors are:
 
